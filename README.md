@@ -1,5 +1,5 @@
 📊 Project Overview
-This project analyzes the Sample Superstore dataset to evaluate sales performance, profitability, customer contribution, regional performance, product sub-category performance, and the relationship between discounting and profit margin.
+This project analyzes the Superstore dataset to evaluate sales performance, profitability, customer contribution, regional performance, product sub-category performance, and the relationship between discounting and profit margin.
 The analysis was built in Microsoft Excel, combining data preparation, calculated fields, formulas, PivotTables, interactive slicers, and dashboard visualizations to transform raw transactional data into actionable business insights.
 The objective was to move beyond simply reporting numbers and identify where revenue and profit are being generated, where profitability is under pressure, and which areas deserve further investigation.
 📈 Interactive Sales & Profitability Dashboard
