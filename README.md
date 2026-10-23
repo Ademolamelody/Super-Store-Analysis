@@ -26,7 +26,7 @@ How does discounting relate to profit margin?
 Which areas of the business require closer attention?
 What actions could potentially improve sales and profitability?
 🗂️ Dataset
-The project uses the Sample Superstore transactional dataset.
+The project uses the Superstore transactional dataset.
 The dataset contains information including:
 Order and shipping dates
 Customer information
@@ -168,7 +168,7 @@ Build interactive dashboards
 Communicate analytical findings through data visualization
 Translate data findings into business recommendations
 ⚠️ Project Limitations
-This analysis is based on the information available within the Sample Superstore dataset. It does not include external factors such as competitor pricing, marketing expenditure, inventory costs, customer acquisition costs, or broader economic conditions.
+This analysis is based on the information available within the Superstore dataset. It does not include external factors such as competitor pricing, marketing expenditure, inventory costs, customer acquisition costs, or broader economic conditions.
 Therefore, the findings identify patterns and areas for investigation rather than proving that a particular factor directly caused a business outcome.
 📁 Project Files
 Excel Workbook: Superstore_Analysis.xlsx
